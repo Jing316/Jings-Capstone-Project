@@ -1,2 +1,2 @@
-# jing-test
-testing setting up a GIT Repository
+# Jings Capstone Project
+Jings Capstone Project Repository
